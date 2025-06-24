@@ -25,6 +25,7 @@ body {
 }
 
 .decorative-element {
+    z-index: 0;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -957,6 +958,9 @@ h1 {
     transition: all 0.3s ease;
     border: none;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
 }
 
 .cta-btn.telegram {
