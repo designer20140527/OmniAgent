@@ -404,6 +404,10 @@ h1 {
     position: relative;
 }
 
+.hero-buttons a {
+    text-decoration: none;
+}
+
 .telegram-btn, .twitter-btn {
     padding: 14px 28px;
     border-radius: 50px;
