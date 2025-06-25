@@ -280,6 +280,8 @@ nav {
     cursor: pointer;
     transition: all 0.3s;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .buy-now-btn:hover {
